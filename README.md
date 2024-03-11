@@ -43,6 +43,8 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 - dim_product
 - dim_market
 - fact_sales_monthly
+- fact_sales_monthly_with_cogs
+- ns_targets_2021
   
 ## Task Performed :
 ---
