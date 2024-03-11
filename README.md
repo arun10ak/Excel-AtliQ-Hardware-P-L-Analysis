@@ -73,11 +73,11 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-#### Customer Performance Report :
+#### Customer Performance [Report](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/blob/main/Report/1.Customer%20Performance%20Report.pdf) : 
 
 ![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/b376b274-2b87-4504-a25f-8e9ad44f61d7)
 
-#### Market Performance Report :
+#### Market Performance [Report](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/blob/main/Report/2.Market%20Performance%20vs%20Target%20Report.pdf) :
 
 ![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/20d2454b-f752-4fde-8e94-4f8f60e72d05)
 
@@ -89,15 +89,15 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-#### P & L For Market :
+#### P & L For Market [Report](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/blob/main/Report/3.P%26L%20Statement%20by%20Markets.pdf) :
 
 ![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/03415b21-da88-46d6-b043-c2790f62d48e)
 
-#### P & L By Fiscal Year :
+#### P & L By Fiscal Year [Report](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/blob/main/Report/4.P%26L%20Statement%20by%20Fiscal%20Year.pdf):
 
 ![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/ecee7c71-b74c-4789-8367-b438d0b11278)
 
-#### P & L By Month :
+#### P & L By Month [Report](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/blob/main/Report/5.P%26L%20Statement%20by%20Months.pdf) :
 
 ![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/1ffaf67d-5f7b-4dfc-bab2-cf5f9ef70d2a)
 
