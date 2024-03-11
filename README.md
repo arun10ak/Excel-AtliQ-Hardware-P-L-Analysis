@@ -37,8 +37,7 @@
 
 Atliq Hardware is a prominent computer hardware manufacturer in India, with a strong presence in other countries as well. However, the management has realized that they lack adequate insights to make timely and informed decisions based on data. Hence, they need to extract useful insights from their existing database.
 
-## Data Source :
- **gdb0041** 
+## Data Source : [File](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/tree/main/Dataset)
 - dim_customer
 - dim_product
 - dim_market
