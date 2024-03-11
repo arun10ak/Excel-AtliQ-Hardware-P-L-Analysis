@@ -42,20 +42,21 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 - dim_customer
 - dim_product
 - dim_market
--- fact_sales_monthly
+- fact_sales_monthly
   
 ## Task Performed :
 ---
 
 - To start with, open Excel and import the datasets. Then, utilize Power Query to perform ETL (Extract, Transform, Load) operations on the data.
-- Use Power Query to clean datasets with null, wrong, duplicate values and extra spaces.
-- Establish relationships between facts and dimensions tables in Power Pivot data model.
-- Create the date dimension table in power query.
-- Use functions like SUM, DIVIDE, RELATED, CALCULATE, SUMX, DISTINCT in DAX to calculate measures and columns.
+- Use Power Query to clean datasets with null, wrong, duplicate values, and extra spaces.
+- Establish relationships between facts and dimensions tables in the Power Pivot data model.
+- Create the date dimension table in the power query.
+- Use functions like SUM, DIVIDE, RELATED, CALCULATE, SUMX, and DISTINCT in DAX to calculate measures and columns.
   
 ## Excel Report:
 ---
 - SALES REPORT:
+  
       - Customer performance report
       - Market performance report
       - P & L for market
