@@ -1,4 +1,4 @@
-# AtliQ Hardware P & L Analyssis [MS Excel] :
+# AtliQ Hardware P & L Analysis [MS Excel] :
 ---
 
 ## Project Detail :
@@ -59,6 +59,8 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
   
       - Customer performance report
       - Market performance report
+- FINANCE REPORT :
+  
       - P & L for market
       - P & L by fiscal year report
       - P & L by month report
@@ -78,5 +80,41 @@ Atliq Hardware is a prominent computer hardware manufacturer in India, with a st
 
 ![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/20d2454b-f752-4fde-8e94-4f8f60e72d05)
 
+### FINANCE REPORT :
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+#### P & L For Market :
+
+![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/03415b21-da88-46d6-b043-c2790f62d48e)
+
+#### P & L By Fiscal Year :
+
+![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/ecee7c71-b74c-4789-8367-b438d0b11278)
+
+#### P & L By Month :
+
+![image](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis/assets/117892039/1ffaf67d-5f7b-4dfc-bab2-cf5f9ef70d2a)
+
+
+## Learned From the project :
+
+- Data cleaning and combining.
+
+- Applying business math and statistics.
+
+- Advanced data analysis techniques using pivot tables and functions like VLOOKUP, INDEX MATCH, XLOOKUP, SUMIF, and COUNTIF, etc.
+
+- Data transformation using Power Query.
+
+- Working with Pivot Tables and Power Pivot.
+
+- Sales and financial analytics.
+
+- Real-time business application expertise.
 
 
